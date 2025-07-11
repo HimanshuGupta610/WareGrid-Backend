@@ -1,0 +1,3 @@
+productId,productName,category,warehouseId,warehouseLocation,currentStock,minThreshold,maxCapacity,expectedDemand
+P100,LED Bulb,Electronics,W001,Delhi,100,20,200,40
+P101,T-Shirt,Clothing,W002,Bangalore,50,10,100,30

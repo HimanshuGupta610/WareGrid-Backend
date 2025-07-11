@@ -1,0 +1,34 @@
+[
+  {
+    "id": "W001",
+    "location": "Delhi"
+  },
+  {
+    "id": "W002",
+    "location": "Mumbai"
+  },
+  {
+    "id": "W003",
+    "location": "Bangalore"
+  },
+  {
+    "id": "W004",
+    "location": "Kolkata"
+  },
+  {
+    "id": "W005",
+    "location": "Hyderabad"
+  },
+  {
+    "id": "W006",
+    "location": "Lucknow"
+  },
+  {
+    "id": "W007",
+    "location": "Jaipur"
+  },
+  {
+    "id": "W008",
+    "location": "Goa"
+  }
+]

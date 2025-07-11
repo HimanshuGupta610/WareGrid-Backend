@@ -1,0 +1,517 @@
+[
+  {
+    "productId": "P001",
+    "productName": "Wireless Mouse",
+    "category": "Electronics",
+    "warehouseId": "W003",
+    "warehouseLocation": "Bangalore",
+    "currentStock": 50,
+    "minThreshold": 30,
+    "maxCapacity": 150,
+    "weeklySales": 25,
+    "expectedDemand": 50,
+    "history": [
+      {
+        "date": "2025-07-05",
+        "stock": 80
+      },
+      {
+        "date": "2025-07-06",
+        "stock": 100
+      },
+      {
+        "date": "2025-07-07",
+        "stock": 50
+      },
+      {
+        "date": "2025-07-08",
+        "stock": 50
+      },
+      {
+        "date": "2025-07-09",
+        "stock": 50
+      },
+      {
+        "date": "2025-07-10",
+        "stock": 50
+      }
+    ]
+  },
+  {
+    "productId": "P004",
+    "productName": "T-Shirt",
+    "category": "Clothing",
+    "warehouseId": "W002",
+    "warehouseLocation": "Mumbai",
+    "currentStock": 80,
+    "minThreshold": 25,
+    "maxCapacity": 150,
+    "weeklySales": 35,
+    "expectedDemand": 50,
+    "history": [
+      {
+        "date": "2025-07-05",
+        "stock": 90
+      },
+      {
+        "date": "2025-07-06",
+        "stock": 80
+      },
+      {
+        "date": "2025-07-07",
+        "stock": 80
+      },
+      {
+        "date": "2025-07-08",
+        "stock": 80
+      },
+      {
+        "date": "2025-07-09",
+        "stock": 80
+      },
+      {
+        "date": "2025-07-10",
+        "stock": 80
+      }
+    ]
+  },
+  {
+    "productId": "P007",
+    "productName": "Toothpaste",
+    "category": "Daily Essentials",
+    "warehouseId": "W003",
+    "warehouseLocation": "Bangalore",
+    "currentStock": 10,
+    "minThreshold": 25,
+    "maxCapacity": 150,
+    "weeklySales": 45,
+    "expectedDemand": 60,
+    "history": [
+      {
+        "date": "2025-07-05",
+        "stock": 100
+      },
+      {
+        "date": "2025-07-06",
+        "stock": 100
+      },
+      {
+        "date": "2025-07-07",
+        "stock": 100
+      },
+      {
+        "date": "2025-07-08",
+        "stock": 100
+      },
+      {
+        "date": "2025-07-09",
+        "stock": 10
+      },
+      {
+        "date": "2025-07-10",
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "productId": "P007",
+    "productName": "Toothpaste",
+    "category": "Daily Essentials",
+    "warehouseId": "W002",
+    "warehouseLocation": "Mumbai",
+    "currentStock": 60,
+    "minThreshold": 20,
+    "maxCapacity": 100,
+    "weeklySales": 30,
+    "expectedDemand": 40,
+    "history": [
+      {
+        "date": "2025-07-05",
+        "stock": 60
+      },
+      {
+        "date": "2025-07-06",
+        "stock": 60
+      },
+      {
+        "date": "2025-07-07",
+        "stock": 60
+      },
+      {
+        "date": "2025-07-08",
+        "stock": 60
+      },
+      {
+        "date": "2025-07-09",
+        "stock": 60
+      },
+      {
+        "date": "2025-07-10",
+        "stock": 60
+      }
+    ]
+  },
+  {
+    "productId": "P010",
+    "productName": "Notebook",
+    "category": "Stationery",
+    "warehouseId": "W001",
+    "warehouseLocation": "Delhi",
+    "currentStock": 10,
+    "minThreshold": 30,
+    "maxCapacity": 200,
+    "weeklySales": 55,
+    "expectedDemand": 65,
+    "history": [
+      {
+        "date": "2025-07-05",
+        "stock": 110
+      },
+      {
+        "date": "2025-07-06",
+        "stock": 110
+      },
+      {
+        "date": "2025-07-07",
+        "stock": 110
+      },
+      {
+        "date": "2025-07-08",
+        "stock": 110
+      },
+      {
+        "date": "2025-07-09",
+        "stock": 110
+      },
+      {
+        "date": "2025-07-10",
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "productId": "P010",
+    "productName": "Notebook",
+    "category": "Stationery",
+    "warehouseId": "W004",
+    "warehouseLocation": "Kolkata",
+    "currentStock": 70,
+    "minThreshold": 30,
+    "maxCapacity": 150,
+    "weeklySales": 35,
+    "expectedDemand": 50,
+    "history": [
+      {
+        "date": "2025-07-05",
+        "stock": 70
+      },
+      {
+        "date": "2025-07-06",
+        "stock": 70
+      },
+      {
+        "date": "2025-07-07",
+        "stock": 70
+      },
+      {
+        "date": "2025-07-08",
+        "stock": 70
+      },
+      {
+        "date": "2025-07-09",
+        "stock": 70
+      },
+      {
+        "date": "2025-07-10",
+        "stock": 70
+      }
+    ]
+  },
+  {
+    "productId": "P014",
+    "productName": "Hand Sanitizer",
+    "category": "Health & Safety",
+    "warehouseId": "W003",
+    "warehouseLocation": "Bangalore",
+    "currentStock": 40,
+    "minThreshold": 20,
+    "maxCapacity": 100,
+    "weeklySales": 22,
+    "expectedDemand": 30,
+    "history": [
+      {
+        "date": "2025-07-05",
+        "stock": 40
+      },
+      {
+        "date": "2025-07-06",
+        "stock": 40
+      },
+      {
+        "date": "2025-07-07",
+        "stock": 40
+      },
+      {
+        "date": "2025-07-08",
+        "stock": 40
+      },
+      {
+        "date": "2025-07-09",
+        "stock": 40
+      },
+      {
+        "date": "2025-07-10",
+        "stock": 40
+      }
+    ]
+  },
+  {
+    "productId": "P011",
+    "productName": "Iphone 15",
+    "category": "Electronics",
+    "warehouseId": "W004",
+    "warehouseLocation": "Kolkata",
+    "currentStock": 50,
+    "minThreshold": 10,
+    "maxCapacity": 60,
+    "expectedDemand": 30,
+    "history": [
+      {
+        "date": "2025-07-04",
+        "stock": 40
+      },
+      {
+        "date": "2025-07-05",
+        "stock": 200
+      },
+      {
+        "date": "2025-07-06",
+        "stock": 50
+      },
+      {
+        "date": "2025-07-07",
+        "stock": 50
+      },
+      {
+        "date": "2025-07-08",
+        "stock": 50
+      },
+      {
+        "date": "2025-07-09",
+        "stock": 50
+      },
+      {
+        "date": "2025-07-10",
+        "stock": 50
+      }
+    ]
+  },
+  {
+    "productId": "P012",
+    "productName": "Pajamas",
+    "category": "Clothing",
+    "warehouseId": "W005",
+    "warehouseLocation": "Hyderabad",
+    "currentStock": 10,
+    "minThreshold": 50,
+    "maxCapacity": 250,
+    "expectedDemand": 210,
+    "history": [
+      {
+        "date": "2025-07-04",
+        "stock": 200
+      },
+      {
+        "date": "2025-07-05",
+        "stock": 200
+      },
+      {
+        "date": "2025-07-06",
+        "stock": 200
+      },
+      {
+        "date": "2025-07-07",
+        "stock": 200
+      },
+      {
+        "date": "2025-07-08",
+        "stock": 200
+      },
+      {
+        "date": "2025-07-09",
+        "stock": 10
+      },
+      {
+        "date": "2025-07-10",
+        "stock": 10
+      }
+    ]
+  },
+  {
+    "productId": "P013",
+    "productName": "Chocolate",
+    "category": "Snacks",
+    "warehouseId": "W005",
+    "warehouseLocation": "Hyderabad",
+    "currentStock": 100,
+    "minThreshold": 100,
+    "maxCapacity": 500,
+    "expectedDemand": 125,
+    "history": [
+      {
+        "date": "2025-07-04",
+        "stock": 150
+      },
+      {
+        "date": "2025-07-05",
+        "stock": 150
+      },
+      {
+        "date": "2025-07-06",
+        "stock": 150
+      },
+      {
+        "date": "2025-07-07",
+        "stock": 150
+      },
+      {
+        "date": "2025-07-08",
+        "stock": 150
+      },
+      {
+        "date": "2025-07-09",
+        "stock": 100
+      },
+      {
+        "date": "2025-07-10",
+        "stock": 100
+      }
+    ]
+  },
+  {
+    "productId": "P012",
+    "productName": "Charger",
+    "category": "Electronics",
+    "warehouseId": "W006",
+    "warehouseLocation": "Lucknow",
+    "currentStock": 50,
+    "minThreshold": 20,
+    "maxCapacity": 150,
+    "expectedDemand": 40,
+    "history": [
+      {
+        "date": "2025-07-06",
+        "stock": 50
+      },
+      {
+        "date": "2025-07-07",
+        "stock": 50
+      },
+      {
+        "date": "2025-07-08",
+        "stock": 50
+      },
+      {
+        "date": "2025-07-09",
+        "stock": 50
+      },
+      {
+        "date": "2025-07-10",
+        "stock": 50
+      }
+    ]
+  },
+  {
+    "productId": "P001",
+    "productName": "Wireless Mouse",
+    "category": "Electronics",
+    "warehouseId": "W001",
+    "warehouseLocation": "Delhi",
+    "currentStock": 50,
+    "minThreshold": 30,
+    "maxCapacity": 150,
+    "weeklySales": 25,
+    "expectedDemand": 50,
+    "history": [
+      {
+        "date": "2025-07-07",
+        "stock": 50
+      },
+      {
+        "date": "2025-07-08",
+        "stock": 50
+      },
+      {
+        "date": "2025-07-09",
+        "stock": 50
+      },
+      {
+        "date": "2025-07-10",
+        "stock": 50
+      }
+    ]
+  },
+  {
+    "productId": "P100",
+    "productName": "LED Bulb",
+    "category": "Electronics",
+    "warehouseId": "W001",
+    "warehouseLocation": "Delhi",
+    "currentStock": 100,
+    "minThreshold": 20,
+    "maxCapacity": 200,
+    "expectedDemand": 40,
+    "history": [
+      {
+        "date": "2025-07-09",
+        "stock": 100
+      },
+      {
+        "date": "2025-07-10",
+        "stock": 100
+      }
+    ]
+  },
+  {
+    "productId": "P101",
+    "productName": "T-Shirt",
+    "category": "Clothing",
+    "warehouseId": "W002",
+    "warehouseLocation": "Bangalore",
+    "currentStock": 50,
+    "minThreshold": 10,
+    "maxCapacity": 100,
+    "expectedDemand": 30,
+    "history": [
+      {
+        "date": "2025-07-09",
+        "stock": 50
+      },
+      {
+        "date": "2025-07-10",
+        "stock": 50
+      }
+    ]
+  },
+  {
+    "productId": "P013",
+    "productName": "Chocolate",
+    "category": "Snacks",
+    "warehouseId": "W001",
+    "warehouseLocation": "Delhi",
+    "currentStock": 50,
+    "minThreshold": 100,
+    "maxCapacity": 500,
+    "expectedDemand": 125,
+    "history": [
+      {
+        "date": "2025-07-09",
+        "stock": 50
+      },
+      {
+        "date": "2025-07-10",
+        "stock": 50
+      }
+    ]
+  }
+]

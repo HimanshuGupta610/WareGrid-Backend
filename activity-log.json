@@ -1,0 +1,277 @@
+[
+  {
+    "username": "admin",
+    "action": "edit_stock",
+    "productId": "P004",
+    "warehouseId": "W002",
+    "newStock": 100,
+    "timestamp": "2025-07-06T13:03:51.628Z"
+  },
+  {
+    "username": "admin",
+    "action": "edit_stock",
+    "productId": "P004",
+    "warehouseId": "W002",
+    "newStock": 70,
+    "timestamp": "2025-07-06T13:04:21.714Z"
+  },
+  {
+    "username": "admin",
+    "action": "Add Warehouse",
+    "warehouseId": "W006",
+    "location": "Lucknow",
+    "timestamp": "2025-07-06T13:08:06.268Z"
+  },
+  {
+    "username": "admin",
+    "action": "Add Product",
+    "productId": "P012",
+    "warehouseId": "W006",
+    "timestamp": "2025-07-06T13:09:07.763Z"
+  },
+  {
+    "username": "admin",
+    "action": "Delete Product",
+    "productId": "P004",
+    "warehouseId": "W004",
+    "timestamp": "2025-07-06T13:13:48.772Z"
+  },
+  {
+    "username": "admin",
+    "action": "export_csv",
+    "timestamp": "2025-07-06T13:23:09.462Z"
+  },
+  {
+    "username": "admin",
+    "action": "edit_stock",
+    "productId": "P004",
+    "warehouseId": "W002",
+    "newStock": 100,
+    "timestamp": "2025-07-06T13:30:44.850Z"
+  },
+  {
+    "username": "viewer",
+    "action": "edit_stock",
+    "productId": "P001",
+    "warehouseId": "W003",
+    "newStock": 100,
+    "timestamp": "2025-07-06T13:52:43.177Z"
+  },
+  {
+    "username": "admin",
+    "action": "edit_stock",
+    "productId": "P001",
+    "warehouseId": "W003",
+    "newStock": 70,
+    "timestamp": "2025-07-06T14:02:51.830Z"
+  },
+  {
+    "username": "admin",
+    "action": "edit_stock",
+    "productId": "P001",
+    "warehouseId": "W003",
+    "newStock": 100,
+    "timestamp": "2025-07-06T14:03:24.837Z"
+  },
+  {
+    "username": "admin",
+    "action": "edit_stock",
+    "productId": "P001",
+    "warehouseId": "W003",
+    "newStock": 100,
+    "timestamp": "2025-07-06T14:03:24.849Z"
+  },
+  {
+    "username": "admin",
+    "action": "Transfer Stock",
+    "productId": "P001",
+    "fromWarehouseId": "W003",
+    "toWarehouseId": "W001",
+    "quantity": 50,
+    "timestamp": "2025-07-07T18:51:22.331Z"
+  },
+  {
+    "username": "admin",
+    "action": "bulk_upload_warehouses",
+    "count": 2,
+    "timestamp": "2025-07-09T08:53:52.557Z"
+  },
+  {
+    "username": "admin",
+    "action": "Delete Product",
+    "productId": "P101",
+    "warehouseId": "W002",
+    "timestamp": "2025-07-09T09:10:13.198Z"
+  },
+  {
+    "username": "admin",
+    "action": "Delete Product",
+    "productId": "P100",
+    "warehouseId": "W001",
+    "timestamp": "2025-07-09T09:10:15.057Z"
+  },
+  {
+    "username": "admin",
+    "action": "bulk_upload_products",
+    "count": 2,
+    "timestamp": "2025-07-09T09:11:39.376Z"
+  },
+  {
+    "username": "admin",
+    "action": "edit_stock",
+    "productId": "P012",
+    "warehouseId": "W005",
+    "newStock": 10,
+    "timestamp": "2025-07-09T18:21:41.154Z"
+  },
+  {
+    "username": "admin",
+    "action": "edit_stock",
+    "productId": "P012",
+    "warehouseId": "W005",
+    "newStock": 10,
+    "timestamp": "2025-07-09T18:21:41.166Z"
+  },
+  {
+    "username": "admin",
+    "action": "edit_stock",
+    "productId": "P007",
+    "warehouseId": "W003",
+    "newStock": 10,
+    "timestamp": "2025-07-09T18:26:41.606Z"
+  },
+  {
+    "username": "admin",
+    "action": "edit_stock",
+    "productId": "P007",
+    "warehouseId": "W003",
+    "newStock": 10,
+    "timestamp": "2025-07-09T18:26:41.617Z"
+  },
+  {
+    "username": "admin",
+    "action": "export_csv",
+    "timestamp": "2025-07-09T19:07:19.525Z"
+  },
+  {
+    "username": "admin",
+    "action": "Add Warehouse",
+    "warehouseId": "W009",
+    "location": "Chandigarh",
+    "timestamp": "2025-07-09T19:07:53.113Z"
+  },
+  {
+    "username": "admin",
+    "action": "Transfer Stock",
+    "productId": "P013",
+    "fromWarehouseId": "W005",
+    "toWarehouseId": "W001",
+    "quantity": 50,
+    "timestamp": "2025-07-09T19:11:15.822Z"
+  },
+  {
+    "username": "admin",
+    "action": "export_csv",
+    "timestamp": "2025-07-09T19:31:20.682Z"
+  },
+  {
+    "username": "admin",
+    "action": "export_csv",
+    "timestamp": "2025-07-10T08:23:37.524Z"
+  },
+  {
+    "username": "admin",
+    "action": "edit_stock",
+    "productId": "P010",
+    "warehouseId": "W001",
+    "newStock": 10,
+    "timestamp": "2025-07-10T08:50:51.684Z"
+  },
+  {
+    "username": "admin",
+    "action": "edit_stock",
+    "productId": "P010",
+    "warehouseId": "W001",
+    "newStock": 10,
+    "timestamp": "2025-07-10T08:50:51.696Z"
+  },
+  {
+    "username": "admin",
+    "action": "export_csv",
+    "timestamp": "2025-07-10T16:31:55.103Z"
+  },
+  {
+    "username": "admin",
+    "action": "edit_stock",
+    "productId": "P010",
+    "warehouseId": "W001",
+    "newStock": 110,
+    "timestamp": "2025-07-10T16:32:13.226Z"
+  },
+  {
+    "username": "admin",
+    "action": "edit_stock",
+    "productId": "P010",
+    "warehouseId": "W001",
+    "newStock": 110,
+    "timestamp": "2025-07-10T16:32:13.247Z"
+  },
+  {
+    "username": "admin",
+    "action": "edit_stock",
+    "productId": "P010",
+    "warehouseId": "W001",
+    "newStock": 10,
+    "timestamp": "2025-07-10T16:41:31.731Z"
+  },
+  {
+    "username": "admin",
+    "action": "edit_stock",
+    "productId": "P010",
+    "warehouseId": "W001",
+    "newStock": 10,
+    "timestamp": "2025-07-10T16:41:31.743Z"
+  },
+  {
+    "username": "admin",
+    "action": "edit_stock",
+    "productId": "P004",
+    "warehouseId": "W002",
+    "newStock": 8,
+    "timestamp": "2025-07-10T17:31:24.684Z"
+  },
+  {
+    "username": "admin",
+    "action": "edit_stock",
+    "productId": "P004",
+    "warehouseId": "W002",
+    "newStock": 8,
+    "timestamp": "2025-07-10T17:31:24.700Z"
+  },
+  {
+    "username": "admin",
+    "action": "export_csv",
+    "timestamp": "2025-07-10T17:59:41.410Z"
+  },
+  {
+    "username": "admin",
+    "action": "Transfer Stock",
+    "productId": "P007",
+    "fromWarehouseId": "W003",
+    "toWarehouseId": "W008",
+    "quantity": 50,
+    "timestamp": "2025-07-10T18:00:28.355Z"
+  },
+  {
+    "username": "admin",
+    "action": "Add Warehouse",
+    "warehouseId": "W010",
+    "location": "Kerala",
+    "timestamp": "2025-07-10T18:01:14.013Z"
+  },
+  {
+    "username": "admin",
+    "action": "export_csv",
+    "timestamp": "2025-07-10T18:03:04.687Z"
+  }
+]
